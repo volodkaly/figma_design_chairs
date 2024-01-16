@@ -1,5 +1,6 @@
-Static page html + css training
-Mainly html, styled directly in tags
+Static page, non responsive design for desktop.
+
+Mainly html, styled directly in tags.
 
 Available at:
 https://volodkaly.github.io/figma_design_chairs/
